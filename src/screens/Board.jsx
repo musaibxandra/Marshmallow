@@ -1,4 +1,4 @@
-import Navbar from "../components/navbar";
+import Navbar from "../components/Navbar";
 import BoardContainer from "../components/BoardContainer";
 import { LinkIcon } from "@heroicons/react/24/solid";
 import { useState } from "react";
