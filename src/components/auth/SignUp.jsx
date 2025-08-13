@@ -36,7 +36,7 @@ const Signup = () => {
         });
       }
 
-      navigate("/Login");
+      navigate(`/Home/${user.uid}`);
       console.log("User Registered Successfully!!");
       toast.success("Account created successfully! Please sign in.", {
         position: "top-center",

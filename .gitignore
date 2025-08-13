@@ -1,4 +1,6 @@
 .env
+config.json
+
 
 # Logs
 logs
