@@ -48,6 +48,10 @@ const Login = () => {
     }
   };
 
+  const handleSignUpClick = () => {
+    navigate("/SignUp");
+  };
+
   return (
     <div className="min-h-screen bg-gradient-to-br from-gray-900 via-gray-800 to-gray-900 flex items-center justify-center p-4">
       <div className="w-full max-w-sm">
@@ -131,12 +135,12 @@ const Login = () => {
           <div className="text-center">
             <p className="text-gray-300">
               Don&apos;t have an account?{" "}
-              <a
-                href="/SignUp"
-                className="text-blue-400 hover:text-blue-300 font-medium hover:underline transition-colors duration-200"
+              <button
+                onClick={handleSignUpClick}
+                className="text-blue-400 hover:text-blue-300 font-medium hover:underline transition-colors duration-200 bg-transparent border-none cursor-pointer"
               >
                 Create one here
-              </a>
+              </button>
             </p>
           </div>
         </div>
