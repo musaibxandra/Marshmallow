@@ -50,11 +50,9 @@ For more information on the importance of a professional README for your reposit
   - [Prerequisites](#prerequisites)
   - [Setup](#setup)
   - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#deployment)
-- [👥 Authors](#authors)
-- [👥 Social](#Social)
+- [Deployment](#deployment)
+- [👥 Author](#author)
+- [👥 Socials](#Social)
 
 
 <!-- PROJECT DESCRIPTION -->
@@ -169,10 +167,12 @@ npm start
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Author
+## Deployment <a name="deployment"></a>
+
+## Author <a name="author"></a>
 
 - Mohammed Maqdoom - [GitHub](https://github.com/musaibxandra)
 
-## Socials
+## Socials <a name="social"></a>
 
 - [LinkedIn](https://linkedin.com/in/musaibxandra)
