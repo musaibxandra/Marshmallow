@@ -168,6 +168,7 @@ npm start
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Deployment <a name="deployment"></a>
+- Netlify
 
 ## Author <a name="author"></a>
 
