@@ -51,7 +51,7 @@ For more information on the importance of a professional README for your reposit
   - [Setup](#setup)
   - [Install](#install)
 - [Deployment](#deployment)
-- [👥 Author](#author)
+- [Author](#author)
 - [👥 Socials](#Social)
 
 
