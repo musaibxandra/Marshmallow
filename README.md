@@ -1,5 +1,5 @@
 <a name="readme-top"></a>
-Click here to view Marshmallow: [Link](https://my-marshmallow.netlify.app/)
+[Click here to view Marshmallow](https://my-marshmallow.netlify.app/)
 <!--
 !!! IMPORTANT !!!
 This README is an example of how you could professionally present your codebase.
