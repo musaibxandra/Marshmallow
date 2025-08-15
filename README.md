@@ -54,12 +54,8 @@ For more information on the importance of a professional README for your reposit
   - [Run tests](#run-tests)
   - [Deployment](#deployment)
 - [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
-- [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
-- [📝 License](#license)
+- [👥 Social](#Social)
+
 
 <!-- PROJECT DESCRIPTION -->
 
