@@ -112,7 +112,7 @@ For more information on the importance of a professional README for your reposit
 - Snap 1
 ![Snap 1](src/assets/snap_1.png)
 - Snap 2
-![Snap 2](src/assets/Snap_2.png)
+![Snap 2](src/assets/snap_2.png)
 
 
 ## 🚀 Live Demo <a name="live-demo"></a>
